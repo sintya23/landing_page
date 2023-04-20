@@ -10,10 +10,11 @@ Jualan makanan menjadi salah satu jenis usaha yang potensial untuk dicoba.Salah 
 
 ## Features
 
-- Peminjaman Buku
-- Pengembalian Buku
-- Buku Pelajaran
-- Buku Cerita
+- Teokkbokki
+- Jjampong
+- Shikkae
+- Sundae
+Any more
 
 ## Tech
 
