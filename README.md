@@ -29,3 +29,5 @@ Website ini dibangun menggunakan:
 | Plugin | README |
 | ------ | ------ |
 | GitHub | [plugins/https://github.com/sintya23/perpus_skensa#readme][PlGh] |
+
+## Installation
