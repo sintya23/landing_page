@@ -23,3 +23,9 @@ Website ini dibangun menggunakan:
 - [HTML](https://www.w3schools.com/html/default.asp) - yaitu bahasa markup standar untuk membuat dan menyusun halaman dan aplikasi web.
 - [CSS](https://www.w3schools.com/Css/default.asp) - CSS adalah singkatan dari cascading style sheets, yaitu bahasa yang digunakan untuk menentukan tampilan dan format halaman website. Dengan CSS, Anda bisa mengatur jenis font, warna tulisan, dan latar belakang halaman. dengan css juga dapat melakukan perubahan pada elemen tampilan website kita.
 - [Bootstrap](https://getbootstrap.com/) - dengan menggunakan bootstrap di website ini saya bisa mengetahui cara menggunakan logo pada website dan di letakkan pada tab.
+
+## Plugins
+
+| Plugin | README |
+| ------ | ------ |
+| GitHub | [plugins/https://github.com/sintya23/perpus_skensa#readme][PlGh] |
